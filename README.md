@@ -3,6 +3,7 @@
 ![Mindect Image](./public/Banner.png)
 
 - Mindect are docs for everyone who wants to learn about AI, ML, Supervised Learning and Advanced Learning ALgorithms. 
+
 <!--
 - add backlins for pages to make the pages go on top with search engines named additioanl resourses, read more at etc.
 - show remaining topics when hovered
@@ -13,7 +14,6 @@
 - add the hover effect to items in navbar like the one vercel has use this for additional info and configuration https://github.com/fuma-nama/fumadocs/discussions/936
 - add images in algebra readme
 - update scroller for math functions and formulas
-
 -->
 
 ## Starting the development server
