@@ -1,5 +1,7 @@
 # Mindect
 
+-- Currently the project is inactive for various reasons one of which is server issues as it is using too much server resources and the other one is user activity on the website. 
+
 ![Mindect Image](./public/Banner.png)
 
 - Mindect are docs for everyone who wants to learn about AI, ML, Supervised Learning and Advanced Learning ALgorithms. 
