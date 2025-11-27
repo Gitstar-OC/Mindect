@@ -1,5 +1,5 @@
 "use client";
-import Footer from "@/components/ui/footer";
+// import Footer from "@/components/ui/footer";
 import Header from "./header";
 import CTA from "./cta";
 import Mission from "./mission";
@@ -14,7 +14,7 @@ export default function Home() {
       <CTA />
       {/* <Mission /> */}
       {/* <Reviews /> */}
-      <Footer />
+      {/* <Footer /> */}
     </div>
   );
 }
